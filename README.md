@@ -1,5 +1,4 @@
-# 📜🌐 Networking-Journey
-
+# 📜🌐 IPocalypse
 A curated set of networking concepts and diagrams, built from multiple sources.  
 Organized for easy learning, reference, and exploration.
 
