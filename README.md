@@ -1,6 +1,5 @@
 # 📜🌐 IPocalypse
-A curated set of networking concepts and diagrams, built from multiple sources.  
-Organized for easy learning, reference, and exploration.
+A structured, comprehensive reference of core networking concepts and diagrams — curated, organized, and refined for real-world clarity.
 
 ![LICENSE](https://img.shields.io/badge/LICENSE-orange?style=flat-square&color=ivory&labelColor=oblack)
 ![TYPE](https://img.shields.io/badge/CC%20BY--NC--ND%204.0-black?style=flat-square)
@@ -9,13 +8,14 @@ Organized for easy learning, reference, and exploration.
 
 ## What this repo is
 
-This is a **curated collection of networking material**, built to document concepts, diagrams, and practical insights from multiple sources — including college teachings, books, and my own exploration.  
+A curated collection of networking fundamentals, organized to simplify concepts, reinforce understanding, and serve as a reliable reference.
+This includes material from books, coursework, and practical exploration — distilled into clean, navigable markdowns.
 
-- Content is organized to **clarify and reinforce understanding**.  
-- Concepts are structured for easy reference and gradual exploration.  
-- The material reflects **real learning and synthesis**, combining multiple perspectives into one resource.  
+- Content is structured for **fast lookup and revision**.  
+- Concepts are broken down for **clarity and retention**.
+- Diagrams support **visual understanding**  
 
-It’s **not a formal course**, but it’s **public and shareable**, so anyone can browse, reference, and learn from it.
+It’s not a formal course — it’s a **public knowledge vault**. 
 
 ---
 
@@ -23,12 +23,10 @@ It’s **not a formal course**, but it’s **public and shareable**, so anyone c
 
 - **Basics & Concepts:** What networks are, how they talk, and why it matters  
 - **Devices & Topologies:** NICs, switches, routers, hubs, APs, star/bus/ring/mesh  
-- **Transmission Media:** Wired (Ethernet, coax, fiber) & Wireless (WiFi, Bluetooth, radio, satellite)  
-- **Addressing & Identity:** IPs, subnets, NAT, MACs, ports, hostnames  
-- **Protocols & Reference Models:** OSI layers, TCP/IP, ARP, DNS, HTTP/HTTPS, TCP/UDP, TLS/SSL  
-- **Security Concepts:** VPNs, TOR, proxies, reverse proxies  
-
-…and all the little notes that make me go *“ohhhh, now I get it.”*
+- **Transmission Media:** Ethernet, coax, fiber, WiFi, radio, satellite  
+- **Addressing & Identity:** IPv4/IPv6, subnets, NAT, MACs, ports, hostnames  
+- **Protocols & Reference Models:** OSI, TCP/IP, ARP, DNS, HTTP/HTTPS, TLS, TCP/UDP  
+- **Security Concepts:** VPN, TOR, proxies, reverse proxies  
 
 > 📌 Note: This repo doesn’t cover everything (yet).  
 > I’ll continue adding more topics and diagrams as time unfolds.
@@ -38,46 +36,24 @@ It’s **not a formal course**, but it’s **public and shareable**, so anyone c
 
 ## ⚠️ License & Credit
 
-- **Public but protected:** All original content in this repository (notes, diagrams, explanations) is licensed under **CC BY-NC-ND 4.0**.  
+  All original content (markdowns, diagrams, explanations) is licensed under **CC BY-NC-ND 4.0:**
   - Non-commercial use only  
   - Proper credit must be given  
   - No one may modify or relicense the material  
 
-- **Images from external sources:** Any images in the `/images` folders (may exist in different subfolders of the repository) that are not created by me are included **for reference only** and **are not covered under this license**.
-
-### ⚠️ Note bout Dates
-
-Some of the dates (M/Y format) you see inside the individual markdown files may **look older than the creation date of this public repository**.  
-
-Here’s why:  
-
-- These notes were originally created and worked on in a **private repository over the past 2–3 months**.  
-- When I decided to make this section public, I **copied the existing content** into this new repository.  
-- The dates in the files reflect **when each note was first written**, not when this public repo was created.  
-
-✅ The content itself is accurate, complete, and represents my learning journey.  
-This note is here to clarify that **older dates don’t mean outdated or irrelevant content** — they just preserve the original creation history.
-
+- External images in `/images` are reference-only and excluded from this license.
 
 ---
 
 ## 🛠️ Who might find this useful
 
-- Learners looking for a **curated reference of networking concepts and diagrams**  
-- Anyone exploring networking from basics to intermediate topics  
-- Those who appreciate **organized, real-world explanations and examples**
+- Students or self-learners studying networking
+- Anyone wanting clean, structured explanations without clutter  
+- Engineers needing a quick, conceptual reference
 
 ---
 
-## Final Thought
+## Final Note
 
-This repository isn’t about impressing anyone or presenting a “perfect” resource.  
-It’s a curated collection of networking concepts, diagrams, and explanations — built from multiple sources, organized for clarity, and refined through practice.  
-
-Each diagram, each markdown file, each explanation represents a small step in understanding networking more deeply.  
-The goal is to **document, explore, and make learning tangible** — one concept at a time.  
-
-This is not the “final word” on networking.  
-It’s a **living resource** — I’ll keep updating it with more concepts, notes, and diagrams as I learn further.
-
-If you’re browsing through, welcome — this is how networking can be approached, understood, and referenced in a practical, structured way.
+This is a **living resource** — updated and expanded as deeper networking topics are explored and documented.
+Each file exists to make core networking concepts **clear, practical, and accessible.**
